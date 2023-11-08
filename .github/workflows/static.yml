@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dicas Sea 1</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      font-weight: bold;
+      background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=qGIvjTjS&id=2F7618A9E97F7EAC7948758CDFD7B7383EAD9028&thid=OIP.qGIvjTjS_sNK0mHsjING1wAAAA&mediaurl=https%3a%2f%2fwww.smogon.com%2fforums%2fattachments%2fkatakuri-gif-gif.199933%2f&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8622f8d38d2fec34ad261ec8c8346d7%3frik%3dKJCtPji319%252bMdQ%26pid%3dImgRaw%26r%3d0&exph=303&expw=540&q=katakuri+gif&simid=608025567062666950&FORM=IRPRST&ck=8D40420B69B653B03C4832A8A6D66BCC&selectedIndex=37');
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    h1, h2, p, li {
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Olá! Bem-Vindo ao Site de Dicas do X 3RR0R</h1>
+  <p>Irei citar algumas dicas para ir para o segundo mar e grindar o sea 1, espero que goste!</p>
+  <a href="http://www.error/dicas-do-error.com">Meu Link</a>
+  <h2>Códigos do jogo Blox Fruits</h2>
+  <ul>
+    <li>SECRET_ADMIN - resgate para 20 minutos de 2x EXP Boost</li>
+    <li>KITT_RESET - resgate para um Stat Refund ou Reset</li>
+    <li>Sub2CaptainMaui - resgate para 20 minutos de 2x EXP Boost</li>
+    <li>kittgaming - resgate para 20 minutos de 2x EXP Boost</li>
+    <li>Sub2Fer999 - resgate para 20 minutos de 2x EXP Boost</li>
+    <li>Enyu_is_Pro - resgate para 20 minutos de 2x EXP Boost</li>
+    <li>JCWK - resgate para 20 minutos de 2x EXP Boost</li>
+    <li>Starcodeheo - resgate para 20 minutos de 2x EXP Boost</li>
+    <li>fudd10_v2 - resgate para 2 Beli</li>
+    <li>$1 - resgate para $1</li>
+    <li>THEGREATACE - resgate para 20 minutos de 2x EXP Boost</li>
+  </ul>
+  <button onclick="window.location.href='https://joaozinhooo7879.github.io/errorfruits/'">Clique aqui para visitar o site</button>
+</body>
+</html>
